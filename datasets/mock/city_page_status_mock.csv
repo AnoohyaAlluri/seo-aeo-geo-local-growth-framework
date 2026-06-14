@@ -1,1 +1,11 @@
-
+city_page_id,city_name,city_cluster,page_status,primary_keyword,local_intent,answer_first_section,faq_count,schema_status,internal_links_added,cta_type,optimization_priority,notes_public_safe
+C001,Santa Monica,Westside,Optimized,santa monica property management,Local Service Search,Yes,5,Documented,4,Contact Form,High,Strong city-page structure with FAQ and conversion path
+C002,Beverly Hills,Westside,Needs Update,beverly hills property management,Luxury Local Search,Yes,4,Planned,3,Schedule Consultation,High,Needs stronger luxury-owner positioning and internal links
+C003,West Hollywood,Central LA,Draft,west hollywood property management,Local Service Search,Yes,4,Planned,2,Contact Form,Medium,Needs FAQ expansion and schema review
+C004,Brentwood,Westside,Draft,brentwood property management,Local Service Search,Yes,4,Planned,2,Schedule Consultation,Medium,Needs local proof sections and service-area links
+C005,Malibu,Coastal LA,Needs Update,malibu property management,Luxury Local Search,Yes,5,Documented,3,Request Rental Analysis,High,Needs stronger high-value property management content
+C006,Pacific Palisades,Coastal LA,Optimized,pacific palisades property management,Local Service Search,Yes,5,Documented,4,Schedule Consultation,High,Good structure for high-value owner search intent
+C007,Culver City,Westside,Draft,culver city property management,Local Service Search,Yes,4,Planned,2,Contact Form,Medium,Needs service-specific internal links
+C008,Venice,Coastal LA,Needs Update,venice property management,Local Service Search,Yes,4,Planned,3,Contact Form,Medium,Needs clearer FAQ and CTA alignment
+C009,Mar Vista,Westside,Planned,mar vista property management,Local Service Search,No,0,Not Started,0,Contact Form,Low,Potential future city-page opportunity
+C010,Los Angeles,Los Angeles,Optimized,los angeles property management,Broad Service Search,Yes,6,Documented,5,Schedule Consultation,High,Core market page supporting service and city-page clusters
