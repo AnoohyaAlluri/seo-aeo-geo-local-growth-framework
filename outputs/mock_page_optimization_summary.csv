@@ -1,1 +1,13 @@
-
+page_id,page_type,current_status,optimization_priority,primary_gap,recommended_next_step,expected_business_value,expected_ai_visibility_value
+P001,Service Page,Optimized,High,Maintain performance,Review quarterly and refresh FAQs as needed,Protects core service visibility,Maintains answer-ready content structure
+P002,Guide Page,Draft,High,Pricing guide not finalized,Complete cost sections FAQ and CTA alignment,Supports high-intent pricing leads,Improves pricing-related AI answer coverage
+P003,City Page,Optimized,High,Needs recurring review,Monitor rankings and refresh local proof sections,Strengthens local lead generation,Maintains city-specific entity clarity
+P004,City Page,Needs Update,High,Luxury positioning incomplete,Add premium-owner language FAQs and internal links,Improves high-value owner targeting,Improves luxury local search interpretation
+P005,City Page,Draft,Medium,FAQ and schema incomplete,Complete page draft and document schema,Expands local service coverage,Improves AI extraction for city-specific queries
+P006,City Page,Draft,Medium,Local proof sections incomplete,Add neighborhood-specific content and CTA,Supports service-area expansion,Improves entity and location association
+P007,City Page,Needs Update,High,High-value owner content needs expansion,Add rental analysis CTA and luxury-service FAQs,Improves high-value lead capture,Improves AI visibility for premium service queries
+P008,FAQ Page,Optimized,High,Maintain FAQ accuracy,Review FAQ groups and update based on new search questions,Improves trust and objection handling,Strengthens answer-engine coverage
+P009,Guide Page,Draft,Medium,Comparison framework incomplete,Complete selection criteria and provider comparison sections,Supports middle-funnel decision making,Improves comparison-query coverage
+P010,Service Page,Needs Update,Medium,Service explanation needs clarity,Rewrite answer-first section and add related city links,Improves service understanding,Improves topic relationship mapping
+P011,Service Page,Draft,Medium,Operational service content incomplete,Add process explanation FAQs and contact CTA,Supports service-level conversion,Improves AI-readable service structure
+P012,Blog Index,Needs Update,Low,Weak connection to service pages,Add internal links from blog categories to service pages,Improves content discovery,Strengthens topical cluster signals
