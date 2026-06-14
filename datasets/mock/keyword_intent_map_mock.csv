@@ -1,1 +1,13 @@
-
+keyword_id,primary_keyword,secondary_keyword,intent_cluster,funnel_stage,page_type,searcher_goal,answer_format,recommended_cta,priority_level
+K001,property management services los angeles,la property management company,Service Evaluation,Middle Funnel,Service Page,Compare service providers,Direct service explanation,Schedule Consultation,High
+K002,property management cost los angeles,property management fees la,Pricing,Middle Funnel,Guide Page,Understand management fees,Cost breakdown with FAQ,Request Rental Analysis,High
+K003,santa monica property management,property manager santa monica,Local Service Search,Bottom Funnel,City Page,Find a local property manager,City-specific service overview,Contact Form,High
+K004,beverly hills property management,luxury property manager beverly hills,Local Service Search,Bottom Funnel,City Page,Find luxury property management support,Local luxury service overview,Schedule Consultation,High
+K005,west hollywood property management,rental management west hollywood,Local Service Search,Bottom Funnel,City Page,Compare local management options,City-specific service overview,Contact Form,Medium
+K006,brentwood property management,property manager brentwood ca,Local Service Search,Bottom Funnel,City Page,Find local property management services,City-specific service overview,Schedule Consultation,Medium
+K007,malibu property management,luxury rental management malibu,Local Service Search,Bottom Funnel,City Page,Find high-value property management support,Local service and trust explanation,Request Rental Analysis,High
+K008,property management questions landlords ask,landlord property management faq,Owner Education,Top Funnel,FAQ Page,Get answers to common landlord questions,FAQ block,Schedule Consultation,High
+K009,how to choose a property manager,property management company comparison,Provider Comparison,Middle Funnel,Guide Page,Compare management companies,Step-by-step guide,Schedule Consultation,Medium
+K010,rental vacancy marketing services,leasing and vacancy management,Service Evaluation,Middle Funnel,Service Page,Understand vacancy marketing support,Service explanation,Request Consultation,Medium
+K011,property maintenance coordination,maintenance management for rentals,Service Evaluation,Middle Funnel,Service Page,Understand maintenance management process,Service explanation,Contact Form,Medium
+K012,landlord tips los angeles,property management advice los angeles,Educational Research,Top Funnel,Blog Index,Learn rental ownership best practices,Educational article hub,Read Articles,Low
