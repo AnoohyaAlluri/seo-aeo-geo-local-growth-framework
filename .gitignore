@@ -1,1 +1,62 @@
+# Operating system files
+.DS_Store
+Thumbs.db
 
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and secret files
+.env
+.env.*
+*.env
+secrets.*
+credentials.*
+token.*
+*.key
+*.pem
+
+# Private or raw source files
+raw_private/
+private_data/
+internal_exports/
+confidential/
+real_data/
+
+# Analytics exports that should not be public
+ga4_exports/
+gsc_exports/
+google_ads_exports/
+search_console_exports/
+internal_reports/
+
+# Spreadsheet working files
+*.xlsx
+*.xlsm
+*.xls
+~$*.xlsx
+~$*.xlsm
+
+# Local temporary files
+*.tmp
+*.log
+*.bak
+
+# Generated image drafts
+images/drafts/
+
+# Keep public-safe mock files only
+!datasets/mock/*.csv
+!outputs/*.csv
+!docs/*.md
+!README.md
+!LICENSE
