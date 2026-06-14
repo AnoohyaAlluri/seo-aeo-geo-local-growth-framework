@@ -159,6 +159,22 @@ My responsibilities included:
 
 ---
 
+## 🖼️ Visual Frameworks
+
+### SEO, AEO & GEO Framework
+
+![SEO, AEO and GEO Framework](images/seo-aeo-geo-framework.png)
+
+### City Page Architecture
+
+![City Page Architecture](images/city-page-architecture.png)
+
+### Internal Linking Map
+
+![Internal Linking Map](images/internal-linking-map.png)
+
+---
+
 ## 🔄 SEO/AEO/GEO Workflow
 
 ### 1. Search Intent Mapping
@@ -364,6 +380,7 @@ Completed build phases:
 6. Created AI-visibility framework
 7. Added public-safe case study
 8. Finalized portfolio-facing documentation
+9. Added public-safe visual framework diagrams
 
 ---
 
