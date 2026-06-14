@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Portfolio%20Project-orange)
 ![Data](https://img.shields.io/badge/Data-Synthetic%20Only-red)
 
-A public-safe marketing technology and growth operations project showing how a local service-business website can be structured for SEO, AEO, GEO, AI-answer visibility, city-page scalability, FAQ coverage, schema planning, internal linking, and conversion-focused owner lead generation.
+A public-safe marketing technology and growth operations project showing how a local service-business website can be structured for SEO, AEO, GEO, AI-answer visibility, city-page scalability, FAQ coverage, schema planning, internal linking, and conversion-focused lead generation.
 
 This repository is a public-safe reconstruction. All examples are synthetic or generalized. No private company data, internal analytics exports, account IDs, unpublished strategy documents, client information, tenant information, owner information, or private screenshots are included.
 
@@ -40,22 +40,24 @@ It demonstrates:
 * Content inventory tracking
 * Public-safe documentation
 
+The main value is not only creating website pages. The value is building a repeatable framework for search visibility, AI-readiness, content operations, and lead-generation architecture.
+
 ---
 
 ## 📊 Project Metrics Snapshot
 
 The metrics below are synthetic portfolio metrics used to demonstrate the structure of the framework.
 
-| Metric | Value |
-| ----- | ----: |
-| Synthetic city pages mapped | 10 |
-| Mock service pages reviewed | 8 |
-| Intent clusters created | 6 |
-| FAQ groups planned | 12 |
-| Schema examples documented | 5 |
-| Internal linking paths mapped | 24 |
-| CTA types documented | 4 |
-| Mock optimization priorities assigned | 18 |
+| Metric                                | Value |
+| ------------------------------------- | ----: |
+| Synthetic city pages mapped           |    10 |
+| Mock service pages reviewed           |     8 |
+| Intent clusters created               |     6 |
+| FAQ groups planned                    |    12 |
+| Schema examples documented            |     5 |
+| Internal linking paths mapped         |    24 |
+| CTA types documented                  |     4 |
+| Mock optimization priorities assigned |    18 |
 
 ---
 
@@ -64,10 +66,11 @@ The metrics below are synthetic portfolio metrics used to demonstrate the struct
 * Built a reusable SEO/AEO/GEO framework for local service-business visibility.
 * Designed answer-first page structures for high-intent search queries.
 * Created city-page templates for scalable local search coverage.
-* Planned FAQ structures to support Google search and AI-generated answers.
+* Planned FAQ structures to support traditional search and AI-generated answers.
 * Mapped internal links between service pages, city pages, blog content, and consultation CTAs.
 * Documented schema examples for local service-area visibility.
 * Created mock content inventory files to show how page status and optimization priorities can be tracked.
+* Added public-safe visual diagrams for framework architecture, city-page structure, and internal linking.
 * Kept the full repository public-safe using synthetic examples only.
 
 ---
@@ -81,10 +84,11 @@ The framework supports:
 * Stronger local search organization
 * Better AI-answer readability
 * More consistent city-page creation
-* Clearer owner-intent content paths
+* Clearer intent-based content paths
 * Improved internal linking discipline
 * Better conversion alignment across service pages
 * More scalable content operations
+* Cleaner documentation for marketing and growth workflows
 
 The main value is not only writing pages. The value is building a repeatable framework for search visibility, AI-readiness, and lead-generation content architecture.
 
@@ -126,6 +130,7 @@ Common issues include:
 * Blog content does not clearly support service pages.
 * Content priorities are hard to track.
 * SEO work is not connected to conversion paths.
+* Content operations are difficult to scale without documentation.
 
 ---
 
@@ -142,6 +147,7 @@ My responsibilities included:
 * Supporting schema and structured-data recommendations
 * Mapping internal links
 * Aligning content sections with conversion-focused CTAs
+* Building public-safe mock trackers and documentation
 * Documenting the workflow in a public-safe portfolio format
 
 ---
@@ -150,16 +156,18 @@ My responsibilities included:
 
 📌 View the full visual workflow here: [`docs/project_architecture.md`](docs/project_architecture.md)
 
-| Layer | Folder | Purpose |
-| ---- | ------ | ------- |
-| Research Layer | `datasets/mock/` | Synthetic content inventory and keyword-intent examples |
-| Strategy Layer | `docs/` | Templates, schema examples, linking strategy, FAQ structure |
-| Output Layer | `outputs/` | Mock optimization summaries and page priority reports |
-| Visual Layer | `images/` | Recreated public-safe workflow diagrams |
+| Layer          | Folder           | Purpose                                                     |
+| -------------- | ---------------- | ----------------------------------------------------------- |
+| Research Layer | `datasets/mock/` | Synthetic content inventory and keyword-intent examples     |
+| Strategy Layer | `docs/`          | Templates, schema examples, linking strategy, FAQ structure |
+| Output Layer   | `outputs/`       | Mock optimization summaries and page priority reports       |
+| Visual Layer   | `images/`        | Recreated public-safe workflow diagrams                     |
 
 ---
 
 ## 🖼️ Visual Frameworks
+
+These visuals are recreated public-safe diagrams. They do not contain private screenshots, internal analytics, private URLs, client information, or company data.
 
 ### SEO, AEO & GEO Framework
 
@@ -203,7 +211,7 @@ Connect service pages, city pages, blogs, consultation pages, and lead-conversio
 
 ### 7. CTA Alignment
 
-Map each page type to a conversion action, such as consultation, rental analysis, service inquiry, or contact form.
+Map each page type to a conversion action, such as consultation, analysis request, service inquiry, or contact form.
 
 ---
 
@@ -257,13 +265,13 @@ seo-aeo-geo-local-growth-framework/
 
 This repository uses mock files to demonstrate how a content operations framework can be organized.
 
-| File | Purpose |
-| ---- | ------- |
-| `datasets/mock/content_inventory_mock.csv` | Tracks mock pages, page types, status, and optimization priority |
-| `datasets/mock/keyword_intent_map_mock.csv` | Maps synthetic keywords to user intent, funnel stage, and page type |
-| `datasets/mock/city_page_status_mock.csv` | Tracks mock city-page build status, FAQ coverage, schema status, and CTA alignment |
-| `outputs/mock_content_gap_summary.csv` | Summarizes mock content gaps and recommended next steps |
-| `outputs/mock_page_optimization_summary.csv` | Summarizes mock page-level optimization priorities |
+| File                                         | Purpose                                                                            |
+| -------------------------------------------- | ---------------------------------------------------------------------------------- |
+| `datasets/mock/content_inventory_mock.csv`   | Tracks mock pages, page types, status, and optimization priority                   |
+| `datasets/mock/keyword_intent_map_mock.csv`  | Maps synthetic keywords to user intent, funnel stage, and page type                |
+| `datasets/mock/city_page_status_mock.csv`    | Tracks mock city-page build status, FAQ coverage, schema status, and CTA alignment |
+| `outputs/mock_content_gap_summary.csv`       | Summarizes mock content gaps and recommended next steps                            |
+| `outputs/mock_page_optimization_summary.csv` | Summarizes mock page-level optimization priorities                                 |
 
 ---
 
@@ -280,35 +288,36 @@ The original workflow involved a marketing technology and website growth stack. 
 * Schema and structured-data planning
 * AI-assisted content strategy
 * Internal linking and conversion-path documentation
+* GitHub documentation
 
 ---
 
 ## 🎯 How This Project Maps to Real Roles
 
-| Target Role | How This Project Supports It |
-| ---------- | ---------------------------- |
-| Technology Marketing Analyst | Shows structured website growth, AI visibility, and conversion planning |
-| Growth Marketing Analyst | Connects search visibility to lead-generation pathways |
-| Marketing Operations Analyst | Turns content work into a repeatable operating system |
-| SEO Analyst | Demonstrates local SEO, page architecture, internal linking, and schema planning |
-| AI Marketing Operations Analyst | Shows GEO, AEO, and AI-answer visibility strategy |
-| Content Strategy Analyst | Connects content planning with search intent and funnel stages |
-| Digital Marketing Analyst | Links page structure, content strategy, and conversion-focused reporting |
+| Target Role                     | How This Project Supports It                                                     |
+| ------------------------------- | -------------------------------------------------------------------------------- |
+| Technology Marketing Analyst    | Shows structured website growth, AI visibility, and conversion planning          |
+| Growth Marketing Analyst        | Connects search visibility to lead-generation pathways                           |
+| Marketing Operations Analyst    | Turns content work into a repeatable operating system                            |
+| SEO Analyst                     | Demonstrates local SEO, page architecture, internal linking, and schema planning |
+| AI Marketing Operations Analyst | Shows GEO, AEO, and AI-answer visibility strategy                                |
+| Content Strategy Analyst        | Connects content planning with search intent and funnel stages                   |
+| Digital Marketing Analyst       | Links page structure, content strategy, and conversion-focused reporting         |
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-| Skill Area | What This Project Demonstrates |
-| --------- | ------------------------------ |
-| SEO Strategy | Local search structure, service pages, city pages, and internal linking |
-| AEO | Answer-first content blocks and FAQ-driven content structure |
-| GEO | AI-readable content organization and entity-focused page planning |
-| Content Operations | Page inventory, status tracking, templates, and repeatable documentation |
-| Conversion Strategy | CTA mapping and intent-based page alignment |
+| Skill Area               | What This Project Demonstrates                                           |
+| ------------------------ | ------------------------------------------------------------------------ |
+| SEO Strategy             | Local search structure, service pages, city pages, and internal linking  |
+| AEO                      | Answer-first content blocks and FAQ-driven content structure             |
+| GEO                      | AI-readable content organization and entity-focused page planning        |
+| Content Operations       | Page inventory, status tracking, templates, and repeatable documentation |
+| Conversion Strategy      | CTA mapping and intent-based page alignment                              |
 | Information Architecture | Structured page hierarchy, topic grouping, and internal navigation logic |
-| Documentation | Public-safe case study, workflow notes, templates, and diagrams |
-| Data Governance | Synthetic examples only, no private company data exposed |
+| Documentation            | Public-safe case study, workflow notes, templates, and diagrams          |
+| Data Governance          | Synthetic examples only, no private company data exposed                 |
 
 ---
 
@@ -336,12 +345,12 @@ Conversion CTA
 
 Example:
 
-| Search Intent | Page Type | Content Structure | CTA Type |
-| ------------- | --------- | ----------------- | -------- |
-| Compare providers | Service page | Direct answer, proof points, FAQs | Schedule consultation |
-| Understand pricing | Blog or guide | Cost explanation, FAQ, internal links | Request analysis |
-| Search by city | City page | Local service overview, FAQs, schema | Contact form |
-| Validate expertise | Case study or service page | Process, proof, trust sections | Consultation CTA |
+| Search Intent      | Page Type                  | Content Structure                     | CTA Type              |
+| ------------------ | -------------------------- | ------------------------------------- | --------------------- |
+| Compare providers  | Service page               | Direct answer, proof points, FAQs     | Schedule consultation |
+| Understand pricing | Blog or guide              | Cost explanation, FAQ, internal links | Request analysis      |
+| Search by city     | City page                  | Local service overview, FAQs, schema  | Contact form          |
+| Validate expertise | Case study or service page | Process, proof, trust sections        | Consultation CTA      |
 
 ---
 
@@ -379,8 +388,8 @@ Completed build phases:
 5. Documented internal linking logic
 6. Created AI-visibility framework
 7. Added public-safe case study
-8. Finalized portfolio-facing documentation
-9. Added public-safe visual framework diagrams
+8. Added public-safe visual framework diagrams
+9. Finalized portfolio-facing documentation
 
 ---
 
