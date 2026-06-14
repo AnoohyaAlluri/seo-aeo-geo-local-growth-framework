@@ -1,1 +1,7 @@
-
+gap_id,gap_category,affected_page_type,example_issue,recommended_action,priority_level,owner_impact,ai_visibility_impact,status
+G001,FAQ Coverage,City Page,Several city pages have fewer than five FAQs,Add localized FAQ blocks to each priority city page,High,Improves user trust and objection handling,Improves answer extraction for AI systems,Planned
+G002,Schema Coverage,City Page,Some local pages have schema planned but not documented,Document LocalBusiness or Service schema examples,High,Improves page clarity and local relevance,Improves structured entity recognition,Planned
+G003,Internal Linking,Service Page,Some service pages have limited links to city pages,Add links from service pages to priority city pages,Medium,Improves navigation and discovery,Strengthens topical relationships,In Progress
+G004,CTA Alignment,Guide Page,Some educational pages lack a clear conversion action,Add consultation or rental-analysis CTA blocks,Medium,Improves lead-generation pathway,Helps AI systems identify next-step intent,Planned
+G005,Answer-First Content,Blog Index,Some pages do not provide direct answers near the top,Add short answer sections before longer explanation,High,Improves readability and decision speed,Improves AI-answer readiness,In Progress
+G006,Content Priority Tracking,All Page Types,Optimization status is not consistently tracked,Use a content inventory tracker with status and priority fields,Medium,Improves content operations discipline,Supports repeatable AI-search optimization,Completed
